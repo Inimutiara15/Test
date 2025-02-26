@@ -1,0 +1,4 @@
+id solder,temperature,time measurement,status
+101,250,2025-02-26 10:00:00,OK
+102,245,2025-02-26 10:05:00,OK
+103,260,2025-02-26 10:10:00,Warning
