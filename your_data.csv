@@ -1,4 +1,4 @@
-time measurement,id solder,temperature,status
+time,id_solder,temperature,status
 2025-02-26 10:00:00,101,250,OK
 2025-02-26 10:01:00,101,252,OK
 2025-02-26 10:02:00,101,255,Warning
